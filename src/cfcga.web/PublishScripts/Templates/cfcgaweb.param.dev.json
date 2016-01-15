@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "cfcgaweb"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "East US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "cfcga-db"
+  },
+  "serverLocation": {
+    "value": "East US"
+  },
+  "administratorLogin": {
+    "value": "db-web"
+  },
+  "administratorLoginPassword": {
+    "value": "Welcome.1"
+  },
+  "databaseName": {
+    "value": "cfcgaweb_db"
+  }
+}
